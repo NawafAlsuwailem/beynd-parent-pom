@@ -6,12 +6,12 @@
 
     <parent>
         <groupId>beynd.architecture</groupId>
-        <artifactId>factory-parent</artifactId>
-        <version>2.0.0</version>
+        <artifactId>beynd-factory-parent</artifactId>
+        <version>3.0.0</version>
     </parent>
 
-    <artifactId>tools-parent</artifactId>
-    <version>2.1.1</version>
+    <artifactId>beynd-tools-parent</artifactId>
+    <version>3.0.0</version>
     <packaging>pom</packaging>
     <name>Tools Parent</name>
 
