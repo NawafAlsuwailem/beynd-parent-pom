@@ -3,11 +3,11 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>beynd.architecture</groupId>
+    <groupId>com.beynd</groupId>
     <artifactId>beynd-factory-parent</artifactId>
-    <version>3.0.0</version>
+    <version>3.1.0</version>
     <packaging>pom</packaging>
-    <name>Factory Parent</name>
+    <name>Beynd Factory Parent</name>
 
     <properties>
         <java.version>21</java.version>
